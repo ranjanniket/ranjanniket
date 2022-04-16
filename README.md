@@ -3,9 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [http://niketranjan.me/](http://niketranjan.me/)
 
-- 📝 I regularly write articles on [#DevOps #Cloud_Computing](#DevOps #Cloud_Computing)
-
-- 💬 Ask me about **DevOps Cloud Computing**
+- 📝 I regularly write articles on ***DevOps Cloud Computing***
 
 - 📫 How to reach me **niketranjan50@gmail.com**
 
