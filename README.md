@@ -1,26 +1,159 @@
-<h1 align="center">Hi 👋, I'm Niket Ranjan</h1>
-<h3 align="center">I'm passionate learner diving into the concepts of computing 💻. I am a Software engineer from India skilled in Linux, DevOps, and Cloud Computing. I have create some projects by integrating different tools and technologies. I am a Oracle Cloud Certified- Associate</h3>
+# Hi, I'm Niket Ranjan 👋
 
-- 👨‍💻 All of my projects are available at [http://niketranjan.me/](http://niketranjan.me/)
+### DevOps / SRE Engineer · Cloud Infrastructure · AI/ML Production Systems
 
-- 📝 I regularly write articles on ***DevOps Cloud Computing***
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ranjanniket-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ranjanniket)
+[![Email](https://img.shields.io/badge/Email-niketranjan50@gmail.com-EA4335?style=flat&logo=gmail)](mailto:niketranjan50@gmail.com)
+[![Location](https://img.shields.io/badge/📍-Pune,%20India-2ea44f?style=flat)]()
 
-- 📫 How to reach me **niketranjan50@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14hLYsx4M5boqgEiPxnFViLhGanqtNtsn/view?usp=sharing](https://drive.google.com/file/d/14hLYsx4M5boqgEiPxnFViLhGanqtNtsn/view?usp=sharing)
+DevOps/SRE Engineer with **3+ years** of hands-on experience architecting cloud-native infrastructure and deploying production-grade AI/ML systems at scale. Currently at **Red Hat**, I bridge the gap between DevOps automation and LLM/RAG systems — building infrastructure that's secure, observable, and production-ready.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/niketranjan_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niketranjan_24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ranjanniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjanniket" height="30" width="40" /></a>
-<a href="https://instagram.com/nikku_2414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikku_2414" height="30" width="40" /></a>
-<a href="https://medium.com/@niketranjan50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@niketranjan50" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc1p1sls0qi-t7d80-e5d4pa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc1p1sls0qi-t7d80-e5d4pa" height="30" width="40" /></a>
+🎤 **International Speaker** — Presented at [DevConf.CZ 2025](https://www.devconf.info/cz/) in Brno, Czech Republic on *Automating and Scaling ML and LLM Workloads in Production.*
+
+---
+
+## 🏢 Experience
+
+**Software Maintenance Engineer — Red Hat** *(Feb 2024 – Present)*
+> Sustaining Engineering | Pune, India
+
+- Architected an **AI-powered internal documentation system** using RAG (Retrieval-Augmented Generation), unifying Confluence and GitLab data for intelligent search and Q&A
+- Built end-to-end **AWS infrastructure** (Lambda, S3, EC2, SageMaker, EKS) using Terraform for automated data ingestion and LLM interaction
+- Designed **CI/CD pipelines for kernel RPM builds**, automating build and deployment workflows
+- Implemented **critical CVE security patches** across RHEL kernel subsystems
+- Manage QA and testing for kernel releases using automated testing methodologies
+
+**Performance & Scale Engineering — Red Hat** *(Aug 2023 – Feb 2024)*
+
+- Automated **Event-Driven Ansible (EDA)** and **Ansible Tower** infrastructure management via APIs
+- Developed Ansible playbooks processing **millions of events** with Automation Controller integration
+- Deployed EDA and Ansible Tower on **AWS with external PostgreSQL** at scale
+- Integrated **Elasticsearch & Kibana** for performance analytics and observability
+
+**DevOps Engineer — Constems-AI Systems** *(Sept 2022 – Aug 2023)*
+
+- Designed and managed multiple **EKS Kubernetes clusters** with Cluster Autoscaler & Karpenter
+- Built and maintained **Helm charts** for streamlined application deployments
+- Provisioned infrastructure using **Terraform** with state management in S3, deployed via Jenkins pipelines
+- Implemented **CI/CD pipelines** using Jenkins & ArgoCD for automated deployments
+- Deployed **Prometheus + Grafana** monitoring with custom exporters (Node, Blackbox, cAdvisor)
+- Built **ELK stack** for centralized logging with automated S3 backups
+- Optimized AWS costs through resource analysis and efficiency improvements
+
+---
+
+## 🛠️ Tech Stack
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-Expert-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Proficient-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?style=flat&logo=ansible&logoColor=white)
+
+`AWS (Lambda · S3 · EC2 · EKS · SageMaker)` `Azure` `GCP` `Terraform` `Ansible` `Ansible Tower` `Event-Driven Ansible`
+
+**Container Orchestration & CI/CD**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Expert-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=flat&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?style=flat&logo=argo&logoColor=white)
+
+`Kubernetes` `Docker` `Podman` `Helm` `EKS` `Jenkins` `GitHub Actions` `GitLab CI/CD` `ArgoCD`
+
+**Monitoring & Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboards-F46800?style=flat&logo=grafana&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK-Logging-005571?style=flat&logo=elastic&logoColor=white)
+
+`Prometheus` `Grafana` `ELK Stack` `Loki` `Promtail` `Node Exporter` `Blackbox Exporter` `cAdvisor`
+
+**AI/ML & MLOps**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+`RAG Implementation` `LLM Production Systems` `Vector Databases` `Model Serving` `CI/CD for ML` `Automated Retraining` `Python` `Bash`
+
+**OS & Networking**
+
+`RHEL` `Ubuntu` `Linux System Administration` `Nginx` `HAProxy`
+
+---
+
+## 🎤 Conference Speaking
+
+### DevConf.CZ 2025 · Brno, Czech Republic 🇨🇿
+
+> **"Automating and Scaling ML and LLM Workloads in Production"**
+>
+> *June 12–14, 2025 · Faculty of Information Technology, Brno University of Technology*
+
+<a href="https://www.devconf.info/cz/"><img src="https://img.shields.io/badge/DevConf.CZ_2025-Speaker-blue?style=for-the-badge" /></a>
+
+- Presented real-world experience building **secure, self-hosted LLM systems** for production environments at Red Hat
+- Deep-dived into **RAG architecture**, secure model deployment, and automated retraining with GitLab pipelines
+- Demonstrated how to make large language models **scalable, resilient, and production-ready** using DevOps automation
+
+---
+
+## 🚀 Featured Project
+
+### AI-Powered Internal Documentation Platform *(RAG + LLM)*
+**Production-grade AI system deployed at Red Hat**
+
+| Metric | Result |
+|--------|--------|
+| ⚡ Document lookup speed | **50% faster** |
+| 📚 Pages auto-indexed | **1,000+ pages**, refreshed weekly |
+| 🚀 Environment spin-up | **< 30 minutes** |
+| 🔄 Update latency | **Near real-time** via event-driven architecture |
+
+**What it does:** A RAG-based internal knowledge platform unifying Confluence and GitLab, delivered as an API, Next.js UI, and Slackbot for instant context-aware answers.
+
+**Infrastructure (Terraform-provisioned on AWS):**
+- S3 (raw/processed data) · Lambda (event-driven ingestion) · EC2 (RAG API) · SageMaker (LLM) · EKS (orchestration)
+- Dual ingestion: weekly full exports + webhook-driven real-time updates
+- Automated PDF/Markdown processing, chunking, and metadata extraction
+
+**DevOps & Production:**
+- CI/CD via Jenkins/GitLab pipelines · Prometheus + Grafana observability · RBAC security · Multi-environment rollouts
+
+`AWS` `Terraform` `Python` `RAG` `LLM` `Next.js` `GitLab CI/CD` `Prometheus` `Grafana` `EKS`
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🎯 Currently
+
+- 🔭 Building production-ready **AI/ML infrastructure** for enterprise applications
+- 🌱 Exploring **advanced Kubernetes patterns** and service mesh technologies
+- 💡 Contributing to **open-source DevOps tools** and automation frameworks
+- 📝 Writing about **MLOps best practices** and cloud-native architectures
+
+---
+
+## 📫 Let's Connect
+
+| | |
+|---|---|
+| **Email** | [niketranjan50@gmail.com](mailto:niketranjan50@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/ranjanniket](https://linkedin.com/in/ranjanniket) |
+| **Phone** | +91 6350522371 |
+| **Location** | Pune, Maharashtra, India |
+
+---
+
+<p align="center">
+  <b>Open to · DevOps/SRE · Cloud Infrastructure · MLOps Engineering · AI/ML Platform Engineering</b><br/>
+  <i>⭐ Specialization: Bridging DevOps & AI/ML — deploying production-grade LLM systems on cloud-native infrastructure</i>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjanniket&show_icons=true&locale=en" alt="ranjanniket" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjanniket&" alt="ranjanniket" /></p>
