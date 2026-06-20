@@ -14,33 +14,34 @@ DevOps/SRE Engineer with **3+ years** of hands-on experience architecting cloud-
 
 ---
 
-## 🏢 Experience
+## 🛠️ What I've Built & Done
 
-**Software Maintenance Engineer — Red Hat** *(Feb 2024 – Present)*
-> Sustaining Engineering | Pune, India
+**Linux Kernel CI/CD & Release Automation**
 
-- Architected an **AI-powered internal documentation system** using RAG (Retrieval-Augmented Generation), unifying Confluence and GitLab data for intelligent search and Q&A
-- Built end-to-end **AWS infrastructure** (Lambda, S3, EC2, SageMaker, EKS) using Terraform for automated data ingestion and LLM interaction
-- Designed **CI/CD pipelines for kernel RPM builds**, automating build and deployment workflows
-- Implemented **critical CVE security patches** across RHEL kernel subsystems
-- Manage QA and testing for kernel releases using automated testing methodologies
+- Built and maintained **CI/CD pipelines for automated kernel RPM builds** across multiple Linux distribution versions, from source to signed package
+- Automated **kernel release pipelines** — build, test, and errata workflows — eliminating manual steps across stable release streams
+- Automated **kernel testing across cloud platforms** (AWS, Azure) covering multiple kernel subsystems and QA methodologies
+- Backported critical **CVE patches and bug fixes** into stable release streams, tracking upstream changes for timely delivery
 
-**Performance & Scale Engineering — Red Hat** *(Aug 2023 – Feb 2024)*
+**AI/ML & RAG Systems in Production**
 
-- Automated **Event-Driven Ansible (EDA)** and **Ansible Tower** infrastructure management via APIs
-- Developed Ansible playbooks processing **millions of events** with Automation Controller integration
-- Deployed EDA and Ansible Tower on **AWS with external PostgreSQL** at scale
-- Integrated **Elasticsearch & Kibana** for performance analytics and observability
+- Built a **production-grade RAG-based documentation platform** unifying Confluence and GitLab — delivered as REST API, Next.js UI, and Slackbot
+- Provisioned full **AWS infrastructure via Terraform**: S3, Lambda, EC2, SageMaker, EKS — with dual ingestion (weekly exports + webhook-driven real-time updates)
+- Productionized with **CI/CD pipelines, RBAC, Prometheus + Grafana observability**, and repeatable multi-environment rollouts
+- Outcomes: **50% faster** document lookup · **1,000+ pages** auto-indexed weekly · environment spin-up in **< 30 minutes**
 
-**DevOps Engineer — Constems-AI Systems** *(Sept 2022 – Aug 2023)*
+**Ansible & Event-Driven Automation**
 
-- Designed and managed multiple **EKS Kubernetes clusters** with Cluster Autoscaler & Karpenter
-- Built and maintained **Helm charts** for streamlined application deployments
-- Provisioned infrastructure using **Terraform** with state management in S3, deployed via Jenkins pipelines
-- Implemented **CI/CD pipelines** using Jenkins & ArgoCD for automated deployments
-- Deployed **Prometheus + Grafana** monitoring with custom exporters (Node, Blackbox, cAdvisor)
-- Built **ELK stack** for centralized logging with automated S3 backups
-- Optimized AWS costs through resource analysis and efficiency improvements
+- Automated **Event-Driven Ansible (EDA) Controller** management via Ansible Tower APIs, processing millions of events
+- Deployed **EDA and Ansible Tower on AWS** with external PostgreSQL for large-scale automation workloads
+- Wrote unit tests and automated test scenarios for **Ansible modules** to validate reliability at scale
+
+**Kubernetes & Cloud Infrastructure**
+
+- Designed and managed **EKS Kubernetes clusters** with Cluster Autoscaler & Karpenter for dynamic resource scaling
+- Provisioned AWS infrastructure using **Terraform** (state in S3) deployed via Jenkins pipelines
+- Implemented **CI/CD with Jenkins & ArgoCD** for automated build, test, and GitOps deployment workflows
+- Deployed **Prometheus + Grafana** monitoring and **ELK stack** for centralized logging with automated S3 backups
 
 ---
 
@@ -148,7 +149,6 @@ DevOps/SRE Engineer with **3+ years** of hands-on experience architecting cloud-
 |---|---|
 | **Email** | [niketranjan50@gmail.com](mailto:niketranjan50@gmail.com) |
 | **LinkedIn** | [linkedin.com/in/ranjanniket](https://linkedin.com/in/ranjanniket) |
-| **Phone** | +91 6350522371 |
 | **Location** | Pune, Maharashtra, India |
 
 ---
